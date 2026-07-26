@@ -1,0 +1,10 @@
+Feature,Importance
+lead_time,0.35346740937719506
+deposit_type,0.305665366725994
+market_segment,0.10736277851858185
+total_of_special_requests,0.08804708617798722
+previous_cancellations,0.073549377481145
+booking_changes,0.0397319100593052
+previous_bookings_not_canceled,0.013477702509000817
+hotel,0.011291002459138107
+days_in_waiting_list,0.007407366691652924
